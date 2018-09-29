@@ -1,0 +1,83 @@
+/* h1 {
+    color: blueviolet
+}
+p {
+    color: chocolate
+} */ 
+/* div {
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-style: oblique;
+    font-size: 300px;
+}   */
+/* .mudas {
+    width: 400px;
+    padding: 10px;
+    border-width: 10px;
+    border-style: dashed;
+    border-top-style: 2px;
+
+} */
+
+.container-1 {
+    display: flex;
+    /*align-items: flex-start; */
+    /* align-items: flex-end; */
+    /* flex-direction: column; */
+}
+
+.conteiner div {
+    /* border: 1px solid blue; */
+    /* padding: 10px; */
+    /* background-color: greenyellow; */
+
+
+} 
+.box-1{
+    
+    border: 2px solid greenyellow;
+    padding: 10px;
+    font-size: 15px;
+    font-family: cursive;
+    
+}
+.box-2{
+    border: 2px solid greenyellow;
+    padding: 50px;
+    font-size: 50px;
+    font-family: cursive;
+}.box-3{
+    border: 2px solid greenyellow;
+    padding: 20px;
+    font-size: 15px;
+    font-family: cursive;
+    
+}
+.container {
+    display: ;
+    /*align-items: flex-start; */
+    /* align-items: flex-end; */
+    /* flex-direction: column; */.
+}
+.conteiner div {
+    /* border: 1px solid greenyellow;  */
+    /* padding: 10px; */
+
+} 
+.box4{
+    border: 1px solid greenyellow;
+    padding: 50px;
+    font-size: 30px;
+}
+.box5{
+    border: 1px solid greenyellow;
+    padding: 50px;
+    font-size: 30px
+    
+}
+.box6{
+    border: 1px solid greenyellow;
+    padding: 50px;
+    font-size: 10px;
+}
